@@ -1,0 +1,14 @@
+{
+    "name": "Lang-translate",
+    "description": "Translate to Multiple Languages",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action": {
+        "default_title": "Lang-Translate",
+        "default_popup": "index.html",
+        "default_icon": {
+            "16": "logo.png",
+            "128": "logo.png"
+        }
+    }
+}
